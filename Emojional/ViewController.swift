@@ -10,11 +10,18 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
-
-
+    @IBOutlet weak var GoodPlace: UIButton!
+    
+    
+    @IBOutlet weak var ParksNRec: UIButton!
+    
+    
+    @IBOutlet weak var FriendsButton: UIButton!
+    
+    
+    @IBOutlet weak var TheOffice: UIButton!
+    
+    
+    
 }
 
